@@ -18,12 +18,6 @@ close(fh);
 for  $idx (0 .. $#keys) {
    push @{ $hash{ $keys[$idx] } }, $values[$idx];
 }
-for (@keys){
-  #guarda solo il giorno,poi dovrei aggiustarlo e fargli guardare anche il mese e l'anno
-  if(substr($_,20,2) ne  substr($giorni[$#giorni],20,2) ){
-    push(@giorni,$_);
-    }
-}
   for($i=0;$i<=@values;++$i){
     if(substr($keys[$i],20,2) == substr(@giorni[$j],20,2)){
       if($values[$i] !~ /C/){
