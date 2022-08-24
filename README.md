@@ -7,7 +7,7 @@ usarlo è semplice,è sufficiente:
 
 2)cambiare i valori come il proprio ssid,la password che si trovano sul file per arduino
 
-3)caricare quel file sul vostro esp8266 usando ad esempio l'ide di arduino(sarà necessario scaricare anche la libreria per l'esp,ecoo una [guida]( https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/))
+3)caricare quel file sul vostro esp8266 usando ad esempio l'ide di arduino(sarà necessario scaricare anche la libreria per l'esp,ecco una [guida]( https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/))
 
 4)collegare ad una qualunque presa di alimentazione l'esp 
 
