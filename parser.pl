@@ -1,8 +1,24 @@
 #use Data::Dumper;
 use List::MoreUtils qw( minmax );
-$j=0;
+use strict;
+my $j=0;
+my @giorni;
+my @keys;
+my $line;
+my @values;
+my $i;
+my $usum;
+my @umid;
+my $tsum;
+my $mint;
+my @temp;
+my $maxt;
+my $minum;
+my $maxum;
+my $maxt;
+my @temp;
 open(fh,"<","result.json") or die $!;
-while(my $line = <fh>) {
+while($line = <fh>) {
   if($line =~ /"date"/){
     push(@keys,$line);
 }
@@ -14,8 +30,11 @@ while(my $line = <fh>) {
 }
 }
 close(fh);
-for  $idx (0 .. $#keys) {
-   push @{ $hash{ $keys[$idx] } }, $values[$idx];
+for (@keys){
+  #guarda solo il giorno,poi dovrei aggiustarlo e fargli guardare anche il mese e l'anno
+  if(substr($_,20,2) ne  substr($giorni[$#giorni],20,2) ){
+    push(@giorni,$_);
+    }
 }
   for($i=0;$i<=@values;++$i){
     if(substr($keys[$i],20,2) == substr(@giorni[$j],20,2)){
