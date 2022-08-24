@@ -1,0 +1,1063 @@
+{
+ "name": "esp8266",
+ "type": "bot_chat",
+ "id": 5065165413,
+ "messages": [
+  {
+   "id": 86395,
+   "type": "service",
+   "date": "2022-07-04T20:34:16",
+   "date_unixtime": "1656959656",
+   "actor": "DΣMOR #MovimentoNOBloat",
+   "actor_id": "user1755296389",
+   "action": "clear_history",
+   "text": ""
+  },
+  {
+   "id": 92224,
+   "type": "message",
+   "date": "2022-08-19T23:42:02",
+   "date_unixtime": "1660945322",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92225,
+   "type": "message",
+   "date": "2022-08-19T23:42:03",
+   "date_unixtime": "1660945323",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità 53.00%"
+  },
+  {
+   "id": 92226,
+   "type": "message",
+   "date": "2022-08-19T23:52:04",
+   "date_unixtime": "1660945924",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92227,
+   "type": "message",
+   "date": "2022-08-19T23:52:05",
+   "date_unixtime": "1660945925",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità 53.00%"
+  },
+  {
+   "id": 92228,
+   "type": "message",
+   "date": "2022-08-20T00:02:06",
+   "date_unixtime": "1660946526",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.80C"
+  },
+  {
+   "id": 92229,
+   "type": "message",
+   "date": "2022-08-20T00:02:07",
+   "date_unixtime": "1660946527",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità 52.00%"
+  },
+  {
+   "id": 92233,
+   "type": "message",
+   "date": "2022-08-20T06:52:34",
+   "date_unixtime": "1660971154",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 20.60C"
+  },
+  {
+   "id": 92234,
+   "type": "message",
+   "date": "2022-08-20T06:52:35",
+   "date_unixtime": "1660971155",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità 54.00%"
+  },
+  {
+   "id": 92235,
+   "type": "message",
+   "date": "2022-08-20T07:02:36",
+   "date_unixtime": "1660971756",
+   "edited": "2022-08-20T07:43:54",
+   "edited_unixtime": "1660974234",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 20.60C"
+  },
+  {
+   "id": 92236,
+   "type": "message",
+   "date": "2022-08-20T07:02:37",
+   "date_unixtime": "1660971757",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità 54.00%"
+  },
+  {
+   "id": 92237,
+   "type": "message",
+   "date": "2022-08-20T07:12:39",
+   "date_unixtime": "1660972359",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.00C"
+  },
+  {
+   "id": 92238,
+   "type": "message",
+   "date": "2022-08-20T07:12:40",
+   "date_unixtime": "1660972360",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità 53.00%"
+  },
+  {
+   "id": 92239,
+   "type": "message",
+   "date": "2022-08-20T07:22:42",
+   "date_unixtime": "1660972962",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.00C"
+  },
+  {
+   "id": 92240,
+   "type": "message",
+   "date": "2022-08-20T07:22:43",
+   "date_unixtime": "1660972963",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità 53.00%"
+  },
+  {
+   "id": 92241,
+   "type": "message",
+   "date": "2022-08-20T07:32:44",
+   "date_unixtime": "1660973564",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.00C"
+  },
+  {
+   "id": 92242,
+   "type": "message",
+   "date": "2022-08-20T07:32:45",
+   "date_unixtime": "1660973565",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità 54.00%"
+  },
+  {
+   "id": 92243,
+   "type": "message",
+   "date": "2022-08-20T07:42:28",
+   "date_unixtime": "1660974148",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.40C"
+  },
+  {
+   "id": 92244,
+   "type": "message",
+   "date": "2022-08-20T07:42:29",
+   "date_unixtime": "1660974149",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità 55.00%"
+  },
+  {
+   "id": 92245,
+   "type": "message",
+   "date": "2022-08-20T07:43:20",
+   "date_unixtime": "1660974200",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.40C"
+  },
+  {
+   "id": 92246,
+   "type": "message",
+   "date": "2022-08-20T07:43:21",
+   "date_unixtime": "1660974201",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 55.00%"
+  },
+  {
+   "id": 92247,
+   "type": "message",
+   "date": "2022-08-20T07:53:23",
+   "date_unixtime": "1660974803",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.40C"
+  },
+  {
+   "id": 92248,
+   "type": "message",
+   "date": "2022-08-20T07:53:24",
+   "date_unixtime": "1660974804",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 55.00%"
+  },
+  {
+   "id": 92249,
+   "type": "message",
+   "date": "2022-08-20T08:03:25",
+   "date_unixtime": "1660975405",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.80C"
+  },
+  {
+   "id": 92250,
+   "type": "message",
+   "date": "2022-08-20T08:03:26",
+   "date_unixtime": "1660975406",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92251,
+   "type": "message",
+   "date": "2022-08-20T08:13:27",
+   "date_unixtime": "1660976007",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.80C"
+  },
+  {
+   "id": 92252,
+   "type": "message",
+   "date": "2022-08-20T08:13:28",
+   "date_unixtime": "1660976008",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92253,
+   "type": "message",
+   "date": "2022-08-20T08:23:29",
+   "date_unixtime": "1660976609",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92254,
+   "type": "message",
+   "date": "2022-08-20T08:23:31",
+   "date_unixtime": "1660976611",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 51.00%"
+  },
+  {
+   "id": 92255,
+   "type": "message",
+   "date": "2022-08-20T08:33:32",
+   "date_unixtime": "1660977212",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.80C"
+  },
+  {
+   "id": 92256,
+   "type": "message",
+   "date": "2022-08-20T08:33:33",
+   "date_unixtime": "1660977213",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 51.00%"
+  },
+  {
+   "id": 92257,
+   "type": "message",
+   "date": "2022-08-20T08:43:35",
+   "date_unixtime": "1660977815",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92258,
+   "type": "message",
+   "date": "2022-08-20T08:43:36",
+   "date_unixtime": "1660977816",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 50.00%"
+  },
+  {
+   "id": 92259,
+   "type": "message",
+   "date": "2022-08-20T08:53:37",
+   "date_unixtime": "1660978417",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92260,
+   "type": "message",
+   "date": "2022-08-20T08:53:38",
+   "date_unixtime": "1660978418",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 50.00%"
+  },
+  {
+   "id": 92261,
+   "type": "message",
+   "date": "2022-08-20T09:03:39",
+   "date_unixtime": "1660979019",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92262,
+   "type": "message",
+   "date": "2022-08-20T09:03:40",
+   "date_unixtime": "1660979020",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 50.00%"
+  },
+  {
+   "id": 92263,
+   "type": "message",
+   "date": "2022-08-20T09:13:41",
+   "date_unixtime": "1660979621",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92264,
+   "type": "message",
+   "date": "2022-08-20T09:13:41",
+   "date_unixtime": "1660979621",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 49.00%"
+  },
+  {
+   "id": 92265,
+   "type": "message",
+   "date": "2022-08-20T09:23:42",
+   "date_unixtime": "1660980222",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92266,
+   "type": "message",
+   "date": "2022-08-20T09:23:43",
+   "date_unixtime": "1660980223",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 50.00%"
+  },
+  {
+   "id": 92267,
+   "type": "message",
+   "date": "2022-08-20T09:33:44",
+   "date_unixtime": "1660980824",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92268,
+   "type": "message",
+   "date": "2022-08-20T09:33:45",
+   "date_unixtime": "1660980825",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 51.00%"
+  },
+  {
+   "id": 92269,
+   "type": "message",
+   "date": "2022-08-20T09:43:47",
+   "date_unixtime": "1660981427",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.80C"
+  },
+  {
+   "id": 92270,
+   "type": "message",
+   "date": "2022-08-20T09:43:48",
+   "date_unixtime": "1660981428",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 52.00%"
+  },
+  {
+   "id": 92271,
+   "type": "message",
+   "date": "2022-08-20T09:53:49",
+   "date_unixtime": "1660982029",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.20C"
+  },
+  {
+   "id": 92272,
+   "type": "message",
+   "date": "2022-08-20T09:53:51",
+   "date_unixtime": "1660982031",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 53.00%"
+  },
+  {
+   "id": 92273,
+   "type": "message",
+   "date": "2022-08-20T10:03:52",
+   "date_unixtime": "1660982632",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 21.80C"
+  },
+  {
+   "id": 92274,
+   "type": "message",
+   "date": "2022-08-20T10:03:53",
+   "date_unixtime": "1660982633",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 53.00%"
+  },
+  {
+   "id": 92275,
+   "type": "message",
+   "date": "2022-08-20T10:13:54",
+   "date_unixtime": "1660983234",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.50C"
+  },
+  {
+   "id": 92276,
+   "type": "message",
+   "date": "2022-08-20T10:13:56",
+   "date_unixtime": "1660983236",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 52.00%"
+  },
+  {
+   "id": 92277,
+   "type": "message",
+   "date": "2022-08-20T10:23:57",
+   "date_unixtime": "1660983837",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.60C"
+  },
+  {
+   "id": 92278,
+   "type": "message",
+   "date": "2022-08-20T10:23:59",
+   "date_unixtime": "1660983839",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 52.00%"
+  },
+  {
+   "id": 92279,
+   "type": "message",
+   "date": "2022-08-20T10:34:00",
+   "date_unixtime": "1660984440",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.60C"
+  },
+  {
+   "id": 92280,
+   "type": "message",
+   "date": "2022-08-20T10:34:02",
+   "date_unixtime": "1660984442",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 52.00%"
+  },
+  {
+   "id": 92281,
+   "type": "message",
+   "date": "2022-08-20T10:44:03",
+   "date_unixtime": "1660985043",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92282,
+   "type": "message",
+   "date": "2022-08-20T10:44:05",
+   "date_unixtime": "1660985045",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 53.00%"
+  },
+  {
+   "id": 92283,
+   "type": "message",
+   "date": "2022-08-20T10:54:06",
+   "date_unixtime": "1660985646",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92284,
+   "type": "message",
+   "date": "2022-08-20T10:54:07",
+   "date_unixtime": "1660985647",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 51.00%"
+  },
+  {
+   "id": 92285,
+   "type": "message",
+   "date": "2022-08-20T11:04:08",
+   "date_unixtime": "1660986248",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92286,
+   "type": "message",
+   "date": "2022-08-20T11:04:09",
+   "date_unixtime": "1660986249",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 51.00%"
+  },
+  {
+   "id": 92287,
+   "type": "message",
+   "date": "2022-08-20T11:14:10",
+   "date_unixtime": "1660986850",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92288,
+   "type": "message",
+   "date": "2022-08-20T11:14:11",
+   "date_unixtime": "1660986851",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 51.00%"
+  },
+  {
+   "id": 92289,
+   "type": "message",
+   "date": "2022-08-20T11:24:13",
+   "date_unixtime": "1660987453",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92290,
+   "type": "message",
+   "date": "2022-08-20T11:24:14",
+   "date_unixtime": "1660987454",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 50.00%"
+  },
+  {
+   "id": 92291,
+   "type": "message",
+   "date": "2022-08-20T11:34:15",
+   "date_unixtime": "1660988055",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92292,
+   "type": "message",
+   "date": "2022-08-20T11:34:16",
+   "date_unixtime": "1660988056",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 49.00%"
+  },
+  {
+   "id": 92314,
+   "type": "message",
+   "date": "2022-08-20T15:43:58",
+   "date_unixtime": "1661003038",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92315,
+   "type": "message",
+   "date": "2022-08-20T15:43:59",
+   "date_unixtime": "1661003039",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92317,
+   "type": "message",
+   "date": "2022-08-20T15:47:34",
+   "date_unixtime": "1661003254",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92318,
+   "type": "message",
+   "date": "2022-08-20T15:47:35",
+   "date_unixtime": "1661003255",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92319,
+   "type": "message",
+   "date": "2022-08-20T15:57:37",
+   "date_unixtime": "1661003857",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92320,
+   "type": "message",
+   "date": "2022-08-20T15:57:38",
+   "date_unixtime": "1661003858",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92321,
+   "type": "message",
+   "date": "2022-08-20T16:07:39",
+   "date_unixtime": "1661004459",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92322,
+   "type": "message",
+   "date": "2022-08-20T16:07:41",
+   "date_unixtime": "1661004461",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92323,
+   "type": "message",
+   "date": "2022-08-20T16:17:42",
+   "date_unixtime": "1661005062",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92324,
+   "type": "message",
+   "date": "2022-08-20T16:17:43",
+   "date_unixtime": "1661005063",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92325,
+   "type": "message",
+   "date": "2022-08-20T16:27:44",
+   "date_unixtime": "1661005664",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.80C"
+  },
+  {
+   "id": 92326,
+   "type": "message",
+   "date": "2022-08-20T16:27:45",
+   "date_unixtime": "1661005665",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92327,
+   "type": "message",
+   "date": "2022-08-20T16:37:46",
+   "date_unixtime": "1661006266",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.80C"
+  },
+  {
+   "id": 92328,
+   "type": "message",
+   "date": "2022-08-20T16:37:47",
+   "date_unixtime": "1661006267",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92329,
+   "type": "message",
+   "date": "2022-08-20T16:47:49",
+   "date_unixtime": "1661006869",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.80C"
+  },
+  {
+   "id": 92330,
+   "type": "message",
+   "date": "2022-08-20T16:47:50",
+   "date_unixtime": "1661006870",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 54.00%"
+  },
+  {
+   "id": 92331,
+   "type": "message",
+   "date": "2022-08-20T16:57:51",
+   "date_unixtime": "1661007471",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92332,
+   "type": "message",
+   "date": "2022-08-20T16:57:53",
+   "date_unixtime": "1661007473",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 55.00%"
+  },
+  {
+   "id": 92333,
+   "type": "message",
+   "date": "2022-08-20T17:07:54",
+   "date_unixtime": "1661008074",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92334,
+   "type": "message",
+   "date": "2022-08-20T17:07:56",
+   "date_unixtime": "1661008076",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 55.00%"
+  },
+  {
+   "id": 92335,
+   "type": "message",
+   "date": "2022-08-20T17:17:57",
+   "date_unixtime": "1661008677",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92336,
+   "type": "message",
+   "date": "2022-08-20T17:17:58",
+   "date_unixtime": "1661008678",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 56.00%"
+  },
+  {
+   "id": 92337,
+   "type": "message",
+   "date": "2022-08-20T17:28:00",
+   "date_unixtime": "1661009280",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92338,
+   "type": "message",
+   "date": "2022-08-20T17:28:01",
+   "date_unixtime": "1661009281",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 57.00%"
+  },
+  {
+   "id": 92339,
+   "type": "message",
+   "date": "2022-08-20T17:38:02",
+   "date_unixtime": "1661009882",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.40C"
+  },
+  {
+   "id": 92340,
+   "type": "message",
+   "date": "2022-08-20T17:38:03",
+   "date_unixtime": "1661009883",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 57.00%"
+  },
+  {
+   "id": 92341,
+   "type": "message",
+   "date": "2022-08-20T17:48:04",
+   "date_unixtime": "1661010484",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92342,
+   "type": "message",
+   "date": "2022-08-20T17:48:06",
+   "date_unixtime": "1661010486",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 57.00%"
+  },
+  {
+   "id": 92343,
+   "type": "message",
+   "date": "2022-08-20T17:58:07",
+   "date_unixtime": "1661011087",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92344,
+   "type": "message",
+   "date": "2022-08-20T17:58:08",
+   "date_unixtime": "1661011088",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 58.00%"
+  },
+  {
+   "id": 92345,
+   "type": "message",
+   "date": "2022-08-20T18:08:09",
+   "date_unixtime": "1661011689",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92346,
+   "type": "message",
+   "date": "2022-08-20T18:08:10",
+   "date_unixtime": "1661011690",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 58.00%"
+  },
+  {
+   "id": 92347,
+   "type": "message",
+   "date": "2022-08-20T18:18:11",
+   "date_unixtime": "1661012291",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92348,
+   "type": "message",
+   "date": "2022-08-20T18:18:13",
+   "date_unixtime": "1661012293",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 58.00%"
+  },
+  {
+   "id": 92349,
+   "type": "message",
+   "date": "2022-08-20T18:28:14",
+   "date_unixtime": "1661012894",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92350,
+   "type": "message",
+   "date": "2022-08-20T18:28:15",
+   "date_unixtime": "1661012895",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 56.00%"
+  },
+  {
+   "id": 92351,
+   "type": "message",
+   "date": "2022-08-20T18:38:16",
+   "date_unixtime": "1661013496",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92352,
+   "type": "message",
+   "date": "2022-08-20T18:38:17",
+   "date_unixtime": "1661013497",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 55.00%"
+  },
+  {
+   "id": 92353,
+   "type": "message",
+   "date": "2022-08-20T18:48:18",
+   "date_unixtime": "1661014098",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92354,
+   "type": "message",
+   "date": "2022-08-20T18:48:19",
+   "date_unixtime": "1661014099",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 55.00%"
+  },
+  {
+   "id": 92355,
+   "type": "message",
+   "date": "2022-08-20T18:58:20",
+   "date_unixtime": "1661014700",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92356,
+   "type": "message",
+   "date": "2022-08-20T18:58:21",
+   "date_unixtime": "1661014701",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 56.00%"
+  },
+  {
+   "id": 92357,
+   "type": "message",
+   "date": "2022-08-20T19:08:23",
+   "date_unixtime": "1661015303",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92358,
+   "type": "message",
+   "date": "2022-08-20T19:08:24",
+   "date_unixtime": "1661015304",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 57.00%"
+  },
+  {
+   "id": 92359,
+   "type": "message",
+   "date": "2022-08-20T19:18:25",
+   "date_unixtime": "1661015905",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92360,
+   "type": "message",
+   "date": "2022-08-20T19:18:26",
+   "date_unixtime": "1661015906",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 58.00%"
+  },
+  {
+   "id": 92361,
+   "type": "message",
+   "date": "2022-08-20T19:28:27",
+   "date_unixtime": "1661016507",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 23.00C"
+  },
+  {
+   "id": 92362,
+   "type": "message",
+   "date": "2022-08-20T19:28:28",
+   "date_unixtime": "1661016508",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 57.00%"
+  },
+  {
+   "id": 92371,
+   "type": "message",
+   "date": "2022-08-21T14:28:04",
+   "date_unixtime": "1661084884",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "temperatura : 22.60C"
+  },
+  {
+   "id": 92372,
+   "type": "message",
+   "date": "2022-08-21T14:28:06",
+   "date_unixtime": "1661084886",
+   "from": "esp8266",
+   "from_id": "user5065165413",
+   "text": "umidità : 48.00%"
+  }
+ ]
+}
