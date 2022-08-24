@@ -1,4 +1,3 @@
-#use Data::Dumper;
 use List::MoreUtils qw( minmax );
 use strict;
 my $j=0;
