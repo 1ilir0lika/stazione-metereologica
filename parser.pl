@@ -14,7 +14,6 @@ while(my $line = <fh>) {
 }
 }
 close(fh);
-%hash;
 for  $idx (0 .. $#keys) {
    push @{ $hash{ $keys[$idx] } }, $values[$idx];
 }
