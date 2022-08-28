@@ -30,8 +30,7 @@ my $i;
 my @giorni;
 my $j=0;
 for (@keys){
-  #guarda solo il giorno,poi dovrei aggiustarlo e fargli guardare anche il mese e l'anno
-  if(substr($_,20,2) ne  substr($giorni[$#giorni],20,2) ){
+  if(substr($_,14,8) ne  substr($giorni[$#giorni],14,8) ){
     push(@giorni,$_);
     }
 }
@@ -43,20 +42,20 @@ for (@keys){
     }
     else{
     push(@temp,substr($values[$i],0,-1));
-	$tsum+=$values[$i];    
+	$tsum+=$values[$i];
 }}
     elsif(substr($keys[$i],20,2) ne substr(@giorni[$j],20,2)){
-    open(my $wh,">>","dati.tsv") or die $!;
+	    #   open(my $wh,">>","dati.txt") or die $!;
     ($mint, $maxt) = minmax @temp;
     ($minum, $maxum) = minmax @umid;
-    print($wh substr(@giorni[$j],12,10)." : \n");
-    print($wh "MIN temp  = ".$mint."C \n");
-    print($wh "MAX temp  = ".$maxt."C \n");
-    print($wh "MEAN temp  = ".substr($tsum/scalar @temp,0,5)."C \n");
-    print($wh "MIN um  = ".$minum."% \n");
-    print($wh "MAX um = ".$maxum."% \n");
-    print($wh "MEAN um  = ".substr($usum/scalar @umid,0,5)."% \n");
-    close($wh);
+    print(substr(@giorni[$j],12,10)." : \n");
+    print("MIN temp  = ".$mint."C \n");
+    print("MAX temp  = ".$maxt."C \n");
+    print("MEAN temp  = ".substr($tsum/scalar @temp,0,5)."C \n");
+    print("MIN um  = ".$minum."% \n");
+    print("MAX um = ".$maxum."% \n");
+    print("MEAN um  = ".substr($usum/scalar @umid,0,5)."% \n");
+    #close($wh);
     $j++;
       }
   }
