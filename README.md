@@ -12,3 +12,6 @@ usarlo è semplice,è sufficiente:
 4)collegare ad una qualunque presa di alimentazione l'esp 
 
 5)quando si avranno abbastanza dati si potrà andare nella chat del bot ed esportare la chat salvandola nella stessa cartella del parser col nome result.json
+
+6)successivamente basterà eseguire il parse col comando 
+`perl parser.pl`
