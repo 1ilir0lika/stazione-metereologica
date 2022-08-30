@@ -56,6 +56,10 @@ for (@keys){
     print("MAX um = ".$maxum."% \n");
     print("MEAN um  = ".substr($usum/scalar @umid,0,5)."% \n");
     #close($wh);
+    @temp=();
+    @umid=();
+    $tsum=0;
+    $usum=0;
     $j++;
       }
   }
