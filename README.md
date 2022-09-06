@@ -1,7 +1,7 @@
 questo progetto è stato fatto con un sensore dht11,result.json è solamente un esempio dei dati che troverete esportando la chat in formato json 
 
 ----------------------------------
-###come usarlo?
+### come usarlo?
 usarlo è semplice,è sufficiente:
 
 1)clonare la repository
@@ -22,5 +22,5 @@ o
 
 ----------------------------------
 
-#scelte di design
+# scelte di design
 analyzer.pl sebbene sia di qualche microsecondo più veloce è meno leggibile,inoltre consiglio di usare direttamente quello in php perchè dovreste scaricare una dipendenza per il file in perl utilizzando cpan o un suo derivato,questo codice non era pensato per esser condiviso quindi non è bene documentato coi commenti
