@@ -23,7 +23,7 @@ o
 ----------------------------------
 
 ### scelte di design
-analyzer.pl sebbene sia di qualche microsecondo più veloce è meno leggibile,inoltre consiglio di usare direttamente quello in php perchè dovreste scaricare una dipendenza per il file in perl utilizzando cpan o un suo derivato,questo codice non era pensato per esser condiviso quindi non è bene documentato coi commenti
+analyzer.pl sebbene sia di qualche millisecondo più veloce è meno leggibile,inoltre consiglio di usare direttamente quello in php perchè dovreste scaricare una dipendenza per il file in perl utilizzando cpan o un suo derivato,questo codice non era pensato per esser condiviso quindi non è bene documentato coi commenti
 
 
 ----------------------------------
