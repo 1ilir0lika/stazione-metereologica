@@ -31,4 +31,4 @@ analyzer.pl sebbene sia di qualche millisecondo più veloce è meno leggibile,in
 #### possibili miglioramenti
 - [ ] volendo i 2 analyzer possono scrivere il loro output in un file e poi con R si potrebbe leggere il file
 - [ ] reimplementare minmax in perl
-- [ ] aggiustare analyze.pl siccome salta dei massimi e minimi
+- [ ] aggiustare analyzer.pl siccome salta dei massimi e minimi
